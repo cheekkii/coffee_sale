@@ -1,0 +1,170 @@
+
+day_of_week	time_period	coffee_name	cups_sold
+0	Monday	Morning	Americano	19
+1	Monday	Morning	Americano with Milk	24
+2	Monday	Morning	Cappuccino	12
+3	Monday	Morning	Cocoa	0
+4	Monday	Morning	Cortado	13
+5	Monday	Morning	Espresso	0
+6	Monday	Morning	Hot Chocolate	5
+7	Monday	Morning	Latte	20
+8	Monday	Afternoon	Americano	21
+9	Monday	Afternoon	Americano with Milk	16
+10	Monday	Afternoon	Cappuccino	11
+11	Monday	Afternoon	Cocoa	1
+12	Monday	Afternoon	Cortado	4
+13	Monday	Afternoon	Espresso	4
+14	Monday	Afternoon	Hot Chocolate	0
+15	Monday	Afternoon	Latte	19
+16	Monday	Evening	Americano	7
+17	Monday	Evening	Americano with Milk	25
+18	Monday	Evening	Cappuccino	17
+19	Monday	Evening	Cocoa	6
+20	Monday	Evening	Cortado	2
+21	Monday	Evening	Espresso	2
+22	Monday	Evening	Hot Chocolate	3
+23	Monday	Evening	Latte	20
+24	Tuesday	Morning	Americano	13
+25	Tuesday	Morning	Americano with Milk	35
+26	Tuesday	Morning	Cappuccino	11
+27	Tuesday	Morning	Cocoa	8
+28	Tuesday	Morning	Cortado	13
+29	Tuesday	Morning	Espresso	2
+30	Tuesday	Morning	Hot Chocolate	3
+31	Tuesday	Morning	Latte	21
+32	Tuesday	Afternoon	Americano	11
+33	Tuesday	Afternoon	Americano with Milk	19
+34	Tuesday	Afternoon	Cappuccino	14
+35	Tuesday	Afternoon	Cocoa	5
+36	Tuesday	Afternoon	Cortado	14
+37	Tuesday	Afternoon	Espresso	1
+38	Tuesday	Afternoon	Hot Chocolate	7
+39	Tuesday	Afternoon	Latte	22
+40	Tuesday	Evening	Americano	8
+41	Tuesday	Evening	Americano with Milk	29
+42	Tuesday	Evening	Cappuccino	12
+43	Tuesday	Evening	Cocoa	2
+44	Tuesday	Evening	Cortado	3
+45	Tuesday	Evening	Espresso	2
+46	Tuesday	Evening	Hot Chocolate	11
+47	Tuesday	Evening	Latte	19
+48	Wednesday	Morning	Americano	10
+49	Wednesday	Morning	Americano with Milk	20
+50	Wednesday	Morning	Cappuccino	7
+51	Wednesday	Morning	Cocoa	1
+52	Wednesday	Morning	Cortado	9
+53	Wednesday	Morning	Espresso	4
+54	Wednesday	Morning	Hot Chocolate	3
+55	Wednesday	Morning	Latte	14
+56	Wednesday	Afternoon	Americano	20
+57	Wednesday	Afternoon	Americano with Milk	21
+58	Wednesday	Afternoon	Cappuccino	13
+59	Wednesday	Afternoon	Cocoa	2
+60	Wednesday	Afternoon	Cortado	6
+61	Wednesday	Afternoon	Espresso	11
+62	Wednesday	Afternoon	Hot Chocolate	2
+63	Wednesday	Afternoon	Latte	16
+64	Wednesday	Evening	Americano	3
+65	Wednesday	Evening	Americano with Milk	14
+66	Wednesday	Evening	Cappuccino	15
+67	Wednesday	Evening	Cocoa	4
+68	Wednesday	Evening	Cortado	10
+69	Wednesday	Evening	Espresso	0
+70	Wednesday	Evening	Hot Chocolate	3
+71	Wednesday	Evening	Latte	23
+72	Thursday	Morning	Americano	14
+73	Thursday	Morning	Americano with Milk	22
+74	Thursday	Morning	Cappuccino	7
+75	Thursday	Morning	Cocoa	0
+76	Thursday	Morning	Cortado	6
+77	Thursday	Morning	Espresso	4
+78	Thursday	Morning	Hot Chocolate	4
+79	Thursday	Morning	Latte	18
+80	Thursday	Afternoon	Americano	16
+81	Thursday	Afternoon	Americano with Milk	16
+82	Thursday	Afternoon	Cappuccino	17
+83	Thursday	Afternoon	Cocoa	0
+84	Thursday	Afternoon	Cortado	16
+85	Thursday	Afternoon	Espresso	6
+86	Thursday	Afternoon	Hot Chocolate	2
+87	Thursday	Afternoon	Latte	21
+88	Thursday	Evening	Americano	5
+89	Thursday	Evening	Americano with Milk	18
+90	Thursday	Evening	Cappuccino	18
+91	Thursday	Evening	Cocoa	1
+92	Thursday	Evening	Cortado	6
+93	Thursday	Evening	Espresso	4
+94	Thursday	Evening	Hot Chocolate	8
+95	Thursday	Evening	Latte	20
+96	Friday	Morning	Americano	14
+97	Friday	Morning	Americano with Milk	16
+98	Friday	Morning	Cappuccino	3
+99	Friday	Morning	Cocoa	2
+100	Friday	Morning	Cortado	13
+101	Friday	Morning	Espresso	5
+102	Friday	Morning	Hot Chocolate	5
+103	Friday	Morning	Latte	23
+104	Friday	Afternoon	Americano	15
+105	Friday	Afternoon	Americano with Milk	22
+106	Friday	Afternoon	Cappuccino	14
+107	Friday	Afternoon	Cocoa	3
+108	Friday	Afternoon	Cortado	4
+109	Friday	Afternoon	Espresso	5
+110	Friday	Afternoon	Hot Chocolate	5
+111	Friday	Afternoon	Latte	17
+112	Friday	Evening	Americano	8
+113	Friday	Evening	Americano with Milk	17
+114	Friday	Evening	Cappuccino	14
+115	Friday	Evening	Cocoa	3
+116	Friday	Evening	Cortado	4
+117	Friday	Evening	Espresso	3
+118	Friday	Evening	Hot Chocolate	6
+119	Friday	Evening	Latte	16
+120	Saturday	Morning	Americano	9
+121	Saturday	Morning	Americano with Milk	26
+122	Saturday	Morning	Cappuccino	6
+123	Saturday	Morning	Cocoa	1
+124	Saturday	Morning	Cortado	21
+125	Saturday	Morning	Espresso	7
+126	Saturday	Morning	Hot Chocolate	1
+127	Saturday	Morning	Latte	15
+128	Saturday	Afternoon	Americano	12
+129	Saturday	Afternoon	Americano with Milk	37
+130	Saturday	Afternoon	Cappuccino	19
+131	Saturday	Afternoon	Cocoa	4
+132	Saturday	Afternoon	Cortado	6
+133	Saturday	Afternoon	Espresso	5
+134	Saturday	Afternoon	Hot Chocolate	5
+135	Saturday	Afternoon	Latte	22
+136	Saturday	Evening	Americano	5
+137	Saturday	Evening	Americano with Milk	7
+138	Saturday	Evening	Cappuccino	14
+139	Saturday	Evening	Cocoa	7
+140	Saturday	Evening	Cortado	1
+141	Saturday	Evening	Espresso	0
+142	Saturday	Evening	Hot Chocolate	2
+143	Saturday	Evening	Latte	19
+144	Sunday	Morning	Americano	10
+145	Sunday	Morning	Americano with Milk	14
+146	Sunday	Morning	Cappuccino	18
+147	Sunday	Morning	Cocoa	1
+148	Sunday	Morning	Cortado	11
+149	Sunday	Morning	Espresso	5
+150	Sunday	Morning	Hot Chocolate	2
+151	Sunday	Morning	Latte	19
+152	Sunday	Afternoon	Americano	9
+153	Sunday	Afternoon	Americano with Milk	26
+154	Sunday	Afternoon	Cappuccino	15
+155	Sunday	Afternoon	Cocoa	4
+156	Sunday	Afternoon	Cortado	15
+157	Sunday	Afternoon	Espresso	4
+158	Sunday	Afternoon	Hot Chocolate	5
+159	Sunday	Afternoon	Latte	18
+160	Sunday	Evening	Americano	9
+161	Sunday	Evening	Americano with Milk	20
+162	Sunday	Evening	Cappuccino	14
+163	Sunday	Evening	Cocoa	0
+164	Sunday	Evening	Cortado	3
+165	Sunday	Evening	Espresso	1
+166	Sunday	Evening	Hot Chocolate	9
+167	Sunday	Evening	Latte	13
